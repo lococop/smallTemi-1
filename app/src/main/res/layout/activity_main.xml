@@ -6,4 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:id="@+id/circle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/circle" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
